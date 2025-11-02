@@ -2,4 +2,4 @@
 that can be entirely independent of each other. 
 
 The creation, merging, and deletion of those lines of 
-development takes seconds.
+development takes seconds
